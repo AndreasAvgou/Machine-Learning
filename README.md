@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning
 Summary of all machine learning projects
 
 1) [Dermoscopic Melanoma Image Classification](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
